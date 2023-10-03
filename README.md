@@ -1,5 +1,5 @@
 # Todo-List-Web-Application
-<h1>user-friendly ToDo List web application that allows users to efficiently manage and organize their tasks, providing a streamlined user interface and ensuring data persistence through a MongoDB database.</h1>
+<p>user-friendly ToDo List web application that allows users to efficiently manage and organize their tasks, providing a streamlined user interface and ensuring data persistence through a MongoDB database.</p>
 
 <li>
   <ul>Backend: Node.js, Express.js</ul>
